@@ -7,6 +7,6 @@ O projeto em questão buscou reproduzir em Python as tarefas propostas pela Prof
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="150" />
   <img src="https://cdn.rawgit.com/ourcodeworld/robotyper/15f3393c/robotyper.png" width="70" title="Artyom logo">
-  <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="pandas" width="70">
+  <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="pandas" width="100">
 
 </p>
